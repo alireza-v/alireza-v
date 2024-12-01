@@ -3,7 +3,7 @@
 
 - I'm a backend developer, primarily working with Python and Django. I'm passionate about distributed systems and backend architecture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-v&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-v&layout=compact)
 
 <h1 align=left> My Tech Stack </h1>
 
